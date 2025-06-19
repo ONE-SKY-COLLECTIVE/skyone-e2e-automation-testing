@@ -46,6 +46,11 @@ skyone-e2e-automation-testing/
 
 ## 🚀 Running Tests
 
+### For Local environ:
+  
+  ```bash
+npx wdio run wdio.conf.js
+
 ### For Android:
 
 ```bash
